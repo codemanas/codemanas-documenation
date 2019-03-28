@@ -1,0 +1,16 @@
+site_name: Code Manas Documentation
+theme: readthedocs
+dev_addr: 172.16.238.10:8004
+nav:
+  - 'index.md'
+  - 'installation.md'
+  - 'setting-up.md'
+  - Theme Options:
+    - 'Header Options': 'header-options.md'
+    - 'Homepage Settings': 'homepage-setting.md'
+    - 'Advanced options': 'advanced-options.md'
+    - 'Menus': 'menus.md'
+    - 'Widgets': 'widgets.md'
+    - 'Footer options': 'footer-options.md'
+  - FAQ: 'faq.md'
+  - 'support.md'

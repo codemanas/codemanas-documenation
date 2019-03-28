@@ -1,0 +1,1 @@
+*If you have any query regarding the them, our 24/7 support team is there for you. Just drop your query in the [support forum](https://wordpress.org/support/theme/code-manas/).*
