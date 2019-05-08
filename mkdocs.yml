@@ -4,7 +4,7 @@ dev_addr: 172.16.238.10:8004
 nav:
   - 'index.md'
   - 'installation.md'
-  - 'setting-up.md'
+  - 'Import Demo' : 'demo-import.md'
   - Theme Options:
     - 'Header Options': 'header-options.md'
     - 'Homepage Settings': 'homepage-setting.md'

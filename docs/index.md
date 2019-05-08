@@ -8,7 +8,7 @@ Documentation for free theme [Code Manas](http://www.codemanas.com/downloads/cod
 	* [Download](installation.md#download)
 	* [Install](installation.md#install)
 	* [Activate](installation.md#activate)
-* [Setting up](setting-up.md)
+* [Import Demo](demo-import.md)
 * [Theme(Customizer) Options](header-options.md)
 	* [Header options](header-options.md)
 	* [Homepage Settings](homepage-setting)
