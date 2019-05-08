@@ -26,7 +26,8 @@ Click Select Image to open the Media Library. Select an image from it or upload 
 
 * **Center align header** – Enabling it will align the header and secondary menu to center.
 * **Make Primary Menu sticky** – Enabling it will make the primary menu stick to the top.
-
+* **Header background color** – Change the background of the header with the colorpicker as your need.
+![Header Background Color Change](img/header-color.gif)
 
 ### Featured Section
 This section will enable you to show the featured section.
